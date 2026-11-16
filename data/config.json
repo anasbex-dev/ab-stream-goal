@@ -1,0 +1,21 @@
+{
+  "channelName": "AnasBex",
+  "subscriberCount": 416,
+  "target": 1500,
+  "mode": "auto",
+  "refreshSeconds": 300,
+  "colors": {
+    "accent": "#ff3434",
+    "track": "rgba(255,255,255,.16)",
+    "text": "#ffffff"
+  },
+  "sizes": {
+    "title": 18,
+    "count": 34,
+    "bar": 10
+  },
+  "status": {
+    "state": "connected",
+    "message": "YouTube data updated. Public counts may be rounded by YouTube."
+  }
+}
